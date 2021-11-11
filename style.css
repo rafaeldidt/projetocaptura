@@ -1,0 +1,116 @@
+.header{
+    text-align: center;
+   
+        
+       
+}
+
+.title{
+       font-size: 30px;
+       background-color: rgb(96, 98, 216);
+       color: white;
+       text-align: center;
+       padding: 7px;
+       
+}
+
+*{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0;
+    margin: 0;
+
+
+    
+     
+   
+}
+
+.container{
+     text-align: center;  
+     padding-right: 8cm;
+     padding-left: 8cm;
+
+
+}
+
+body  {
+    background-color: black; 
+
+
+}
+
+.formu{
+    max-width: 230px;
+    background-color: #FFFFFFbb;
+    padding: 20px;
+    float: left;  
+    
+    
+
+}
+
+h2{
+    font-size: 20px;
+
+}
+
+p{
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+input, select{
+    margin-bottom: 7px;
+    padding: 10px;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+input[type="submit"]{
+    color: white;
+    background-color:cadetblue    
+    
+
+}
+
+body{
+    background-image: url(palestra2.png);
+    background-repeat: no-repeat; 
+    background-size: 1000px;
+    background-position-x:8cm;
+    background-position-y:1cm;
+    background-size: 1299px;
+
+}
+
+
+
+
+.picture{
+    height: 150px;
+    position: absolute;
+    left: 150px;
+    right: 50px;
+    padding-left: 13cm;
+    padding-top: 18cm;
+    border-color: azure;
+    border-width: 3px;
+
+}
+
+.description{
+
+    color: white;
+    display: inline-block;
+    bottom: auto;
+    padding-bottom: 2cm;
+    width: 15cm;
+    text-align: left;
+    padding-top: 18cm;
+    
+
+}
+
+
